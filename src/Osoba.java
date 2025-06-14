@@ -9,9 +9,6 @@ public class Osoba implements Serializable {
 
     protected Date dataUrodzenia;
 
-    // gettery, settery, konstruktor, toString()
-
-
     public String getImie() {
         return imie;
     }
